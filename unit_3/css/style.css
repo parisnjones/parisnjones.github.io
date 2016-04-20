@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background-image: url(http://tophdimgs.com/data_images/wallpapers/32/437423-royalty.jpg);
+	background-image: url("http://tophdimgs.com/data_images/wallpapers/32/437423-royalty.jpg");
 	background-size: cover;
 }
 h1 {
