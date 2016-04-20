@@ -1,4 +1,6 @@
 body {
+	background: url("royalty.jpg");
+	background-size: cover;
 	color: yellow;
 	font-family: "Arial";
 	text-align: center;
