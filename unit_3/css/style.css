@@ -1,5 +1,5 @@
 body {
-	background: url("images/royalty.jpg");
+	background: url("http://static.tumblr.com/0df9599ebbd032723294542daebc7f46/cca7uuw/AeRn0ho1g/tumblr_static_demasque.jpg");
 	background-size: cover;
 	color: yellow;
 	font-family: "Arial";
@@ -13,6 +13,5 @@ h1 {
 	font-style: italic;
 }
 ul {
-    text-align: center;
-    list-style-type: none;
+  list-style-type: none;
 }
