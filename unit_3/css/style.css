@@ -1,6 +1,9 @@
 body {
-	text-align: center;
 	background: url("http://wallpapersinhq.pw/images/big/dark_black_curved_bloom-141826.jpg");
+	background-size: cover;
+	color: yellow;
+	font-family: "Arial";
+	text-align: center;
 }
 h1 {
 	font-family: Georgia, serif;
